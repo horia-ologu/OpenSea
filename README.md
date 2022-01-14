@@ -2,7 +2,7 @@
 
 ## Create Node server and/or Chrome extension with a simple interface to automatically place bids on selected collections.
 
-**Features**
+### **Features**
 - Secured account
 - Link wallets
 - Analyze collection stats
@@ -14,7 +14,7 @@
   - Check for wallet content to ensure all bids
   - Notify when a bid is accepted
 
-**Interface structure**
+### **Interface structure**
 1. Login
 2. Home
 3. Wallets
