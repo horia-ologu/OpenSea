@@ -1,6 +1,6 @@
 # OpenSea
 
-## Create Node server with a simple interface to automatically place bids on selected collections.
+## Create Node server and/or Chrome extension with a simple interface to automatically place bids on selected collections.
 
 **Features**
 - Secured account
