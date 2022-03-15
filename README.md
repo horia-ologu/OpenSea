@@ -24,5 +24,6 @@
 4. Search
     - Search Bulk Offers
    - Search Results
-5. Settings
-6. Logs
+5. Place Bulk Offers
+6. Settings
+7. Logs
